@@ -53,7 +53,6 @@ Amazon-Clone/
 - │── hero_image.jpg
 - │── box1_image.jpg
 - │── box2_image.jpg
-- │── ...
 - │── amazon_logo.png
 
 
