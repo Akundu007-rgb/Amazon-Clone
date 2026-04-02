@@ -48,13 +48,13 @@ It focuses on:
 
 
 Amazon-Clone/
-│── index.html
-│── style.css
-│── hero_image.jpg
-│── box1_image.jpg
-│── box2_image.jpg
-│── ...
-│── amazon_logo.png
+- │── index.html
+- │── style.css
+- │── hero_image.jpg
+- │── box1_image.jpg
+- │── box2_image.jpg
+- │── ...
+- │── amazon_logo.png
 
 
 ---
